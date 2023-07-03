@@ -1,0 +1,194 @@
+[
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-jose/restaurant/leyou",
+      "Name": "LeYou",
+      "City": "San Jose",
+      "Cost": "$$",
+      "Cuisine": "Ethiopian",
+      "Address": "1100 N. First St., Ste. C., San Jose, 95112, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-jose/restaurant/petiscos",
+      "Name": "Petiscos",
+      "City": "San Jose",
+      "Cost": "$$",
+      "Cuisine": "Portuguese",
+      "Address": "399 S. 1st St., San Jose, 95113, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-jose/restaurant/luna-mexican-kitchen",
+      "Name": "Luna Mexican Kitchen",
+      "City": "San Jose",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "1495 The Alameda, San Jose, 95126, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-jose/restaurant/adega",
+      "Name": "Adega",
+      "City": "San Jose",
+      "Cost": "$$$$",
+      "Cuisine": "Portuguese",
+      "Address": "1614 Alum Rock Ave., San Jose, 95116, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/campbell/restaurant/be-steak-a",
+      "Name": "Be.St\u00e9ak.\u0102",
+      "City": "Campbell",
+      "Cost": "$$$",
+      "Cuisine": "Steakhouse",
+      "Address": "1887 S. Bascom Ave., Campbell, 95008, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/campbell/restaurant/orchard-city-kitchen",
+      "Name": "Orchard City Kitchen",
+      "City": "Campbell",
+      "Cost": "$$",
+      "Cuisine": "International",
+      "Address": "1875 S. Bascom Ave., Ste.190, Campbell, 95008, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/cupertino/restaurant/beijing-duck-house",
+      "Name": "Beijing Duck House",
+      "City": "Cupertino",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "10883 S. Blaney Ave., Cupertino, 95014, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/los-gatos/restaurant/the-bywater",
+      "Name": "The Bywater",
+      "City": "Los Gatos",
+      "Cost": "$$",
+      "Cuisine": "Southern",
+      "Address": "532 N. Santa Cruz Ave., Los Gatos, 95030, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/los-gatos/restaurant/asa-south",
+      "Name": "ASA South",
+      "City": "Los Gatos",
+      "Cost": "$$",
+      "Cuisine": "Californian",
+      "Address": "57 Los Gatos-Saratoga Rd., Los Gatos, 95032, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/los-gatos/restaurant/dio-deka",
+      "Name": "Dio Deka",
+      "City": "Los Gatos",
+      "Cost": "$$$",
+      "Cuisine": "Greek",
+      "Address": "210 E. Main St., Los Gatos, 95030, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/saratoga/restaurant/plumed-horse",
+      "Name": "Plumed Horse",
+      "City": "Saratoga",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "14555 Big Basin Way, Saratoga, 95070, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/mountain-view/restaurant/doppio-zero-pizza-napoletana",
+      "Name": "Doppio Zero Pizza Napoletana",
+      "City": "Mountain View",
+      "Cost": "$$",
+      "Cuisine": "Pizza",
+      "Address": "160 Castro St., Mountain View, 94041, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/mountain-view/restaurant/chez-tj",
+      "Name": "Chez TJ",
+      "City": "Mountain View",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "938 Villa St., Mountain View, 94041, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/los-altos/restaurant/aurum-1195363",
+      "Name": "Aurum",
+      "City": "Los Altos",
+      "Cost": "$$$",
+      "Cuisine": "Indian",
+      "Address": "132 State St., Los Altos, 94022, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/palo-alto/restaurant/protege",
+      "Name": "Prot\u00e9g\u00e9",
+      "City": "Palo Alto",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "250 California Ave., Palo Alto, 94306, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/palo-alto/restaurant/italico",
+      "Name": "iTalico",
+      "City": "Palo Alto",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "341 California Ave., Palo Alto, 94306, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/palo-alto/restaurant/zola",
+      "Name": "Zola",
+      "City": "Palo Alto",
+      "Cost": "$$$",
+      "Cuisine": "French",
+      "Address": "565 Bryant St., Palo Alto, 94301, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/palo-alto/restaurant/tamarine",
+      "Name": "Tamarine",
+      "City": "Palo Alto",
+      "Cost": "$$$",
+      "Cuisine": "Vietnamese",
+      "Address": "546 University Ave., Palo Alto, 94301, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/palo-alto/restaurant/ettan",
+      "Name": "Ettan",
+      "City": "Palo Alto",
+      "Cost": "$$$",
+      "Cuisine": "Indian",
+      "Address": "518 Bryant St., Palo Alto, 94301, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/palo-alto/restaurant/bird-dog",
+      "Name": "Bird Dog",
+      "City": "Palo Alto",
+      "Cost": "$$",
+      "Cuisine": "Contemporary",
+      "Address": "420 Ramona St., Palo Alto, 94301, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/palo-alto/restaurant/evvia",
+      "Name": "Evvia",
+      "City": "Palo Alto",
+      "Cost": "$$$",
+      "Cuisine": "Greek",
+      "Address": "420 Emerson St., Palo Alto, 94301, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/palo-alto/restaurant/vina-enoteca",
+      "Name": "Vina Enoteca",
+      "City": "Palo Alto",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "700 Welch Rd., Unit 110, Palo Alto, 94304, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/menlo-park/restaurant/camper",
+      "Name": "Camper",
+      "City": "Menlo Park",
+      "Cost": "$$",
+      "Cuisine": "Californian",
+      "Address": "898 Santa Cruz Ave., Menlo Park, 94025, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/menlo-park/restaurant/flea-st-cafe",
+      "Name": "Flea St. Cafe",
+      "City": "Menlo Park",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "3607 Alameda de las Pulgas, Menlo Park, 94025, USA"
+   }
+]

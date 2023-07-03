@@ -1,0 +1,1442 @@
+[
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/sushi-kaneyoshi",
+      "Name": "Sushi Kaneyoshi",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "250 E. 1st St., B1, Los Angeles, 90012, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/badmaash",
+      "Name": "Badmaash",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Indian",
+      "Address": "108 W. 2nd St., Ste. 104, Los Angeles, 90012, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/redbird",
+      "Name": "Redbird",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "114 E. 2nd St., Los Angeles, 90012, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/sushi-takeda",
+      "Name": "Sushi Takeda",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "123 Astronaut Ellison S. Onizuka St., Ste.307, Los Angeles, 90012, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/camphor",
+      "Name": "Camphor",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "French",
+      "Address": "923 E. 3rd St., Ste. 109, Los Angeles, 90013, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/marugame-monzo",
+      "Name": "Marugame Monzo",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "329 E. 1st St., Los Angeles, 90012, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/maccheroni-republic",
+      "Name": "Maccheroni Republic",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Italian-American",
+      "Address": "332 S. Broadway, Los Angeles, 90013, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/san-laurel",
+      "Name": "San Laurel",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Spanish",
+      "Address": "100 S. Grand Ave., Los Angeles, 90012, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/orsa-winston",
+      "Name": "Orsa & Winston",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "122 W. 4th St., Los Angeles, 90013, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/asterid-by-ray-garcia",
+      "Name": "asterid by Ray Garcia",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "141 S. Grand Ave., Los Angeles, 90012, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/715",
+      "Name": "715",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "738 E. 3rd St., Los Angeles, 90013, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/la-cha-cha-cha",
+      "Name": "LA Cha Cha Ch\u00e1",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Mexican",
+      "Address": "812 E. 3rd St., Los Angeles, 90013, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/yunomi-handroll",
+      "Name": "Yunomi Handroll",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "806 E. 3rd St., Los Angeles, 90013, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/manuela",
+      "Name": "Manuela",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "American",
+      "Address": "907 E. 3rd St., Los Angeles, 90013, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/q-sushi",
+      "Name": "Q Sushi",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "521 W. 7th St., Los Angeles, 90014, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/oriel",
+      "Name": "Oriel",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "French",
+      "Address": "1135 N. Alameda St., Los Angeles, 90012, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/the-exchange",
+      "Name": "The Exchange",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "416 W. 8th St., Los Angeles, 90014, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/shibumi-559644",
+      "Name": "Shibumi",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "815 S. Hill St., Los Angeles, 90014, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/niku-x",
+      "Name": "Niku X",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Yakiniku",
+      "Address": "900 Wilshire Blvd., Ste. 212, Los Angeles, 90017, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/bavel",
+      "Name": "Bavel",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Middle",
+      "Address": "500 Mateo St., Los Angeles, 90013, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/woodspoon",
+      "Name": "WoodSpoon",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Brazilian",
+      "Address": "107 W. 9th St., Los Angeles, 90015, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/yxta",
+      "Name": "Yxta Cocina Mexicana",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Mexican",
+      "Address": "601 S. Central Ave., Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/the-factory-kitchen",
+      "Name": "The Factory Kitchen",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "1300 Factory Pl., Ste. 101, Los Angeles, 90013, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/girl-the-goat-los-angeles",
+      "Name": "Girl & the Goat Los Angeles",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "555-3 Mateo St., Los Angeles, 90013, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/brera-ristorante",
+      "Name": "Brera Ristorante",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "1331 E. 6th St., Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/pizzeria-bianco",
+      "Name": "Pizzeria Bianco",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Pizza",
+      "Address": "1320 E. 7th St., Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/hayato",
+      "Name": "Hayato",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "1320 E. 7th St., Ste. 126, Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/dama",
+      "Name": "Dama",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Latin",
+      "Address": "612 E. 11th St., Los Angeles, 90015, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/rossoblu",
+      "Name": "Rossoblu",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "1124 San Julian St., Los Angeles, 90015, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/guerrilla-tacos",
+      "Name": "Guerrilla Tacos",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Mexican",
+      "Address": "2000 E. 7th St., Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/kato",
+      "Name": "Kato",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Asian",
+      "Address": "777 Alameda St., Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/kodo",
+      "Name": "kod\u014d",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Izakaya",
+      "Address": "710 S. Santa Fe Ave., Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/yangban-society",
+      "Name": "Yangban Society",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Asian",
+      "Address": "712 S. Santa Fe Ave., Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/tsubaki",
+      "Name": "Tsubaki",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "1356 Allison Ave., Los Angeles, 90026, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/bestia",
+      "Name": "Bestia",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Italian",
+      "Address": "2121 E. 7th Pl., Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/damian",
+      "Name": "Damian",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Mexican",
+      "Address": "2132 E. 7th Pl., Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/majordomo",
+      "Name": "majord\u014dmo",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Asian",
+      "Address": "1725 Naud St., Los Angeles, 90012, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/mandolin-taverna",
+      "Name": "Mandolin Taverna",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Greek",
+      "Address": "1000 S. Santa Fe Ave., Los Angeles, 90021, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/boyle-heights/restaurant/guisados",
+      "Name": "Guisados",
+      "City": "Boyle Heights",
+      "Cost": "$",
+      "Cuisine": "Mexican",
+      "Address": "2100 E. Cesar E. Chavez Ave., Boyle Heights, 90033, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/langer-s",
+      "Name": "Langer's",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Deli",
+      "Address": "704 S. Alvarado St., Los Angeles, 90057, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/moo-s-craft-barbecue",
+      "Name": "Moo's Craft Barbecue",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Barbecue",
+      "Address": "2118 N. Broadway, Los Angeles, 90031, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/pijja-palace",
+      "Name": "Pijja Palace",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Fusion",
+      "Address": "2711 Sunset Blvd., Los Angeles, 90026, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/yong-su-san",
+      "Name": "Yong Su San",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Korean",
+      "Address": "950 S. Vermont Ave., Los Angeles, 90006, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/soowon-galbi",
+      "Name": "Soowon Galbi",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Korean",
+      "Address": "856 S. Vermont Ave., Los Angeles, 90005, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/parks-bbq",
+      "Name": "Parks BBQ",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Korean",
+      "Address": "955 S. Vermont Ave., Ste.G, Los Angeles, 90006, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/spoon-pork",
+      "Name": "Spoon & Pork",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Filipino",
+      "Address": "3131 W. Sunset Blvd., Los Angeles, 90026, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/all-day-baby",
+      "Name": "All Day Baby",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "American",
+      "Address": "3200 Sunset Blvd., Los Angeles, 90026, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/alimento",
+      "Name": "Alimento",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "1710 Silver Lake Blvd., Los Angeles, 90026, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/holbox",
+      "Name": "Holbox",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "3655 S. Grand Ave., Los Angeles, 90007, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/quarters-bbq",
+      "Name": "Quarters BBQ",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Korean",
+      "Address": "3465 W. 6th St., Los Angeles, 90020, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/pine-crane",
+      "Name": "Pine & Crane",
+      "City": "Los Angeles",
+      "Cost": "$",
+      "Cuisine": "Asian",
+      "Address": "1521 Griffith Park Blvd., Los Angeles, 90026, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/guelaguetza",
+      "Name": "Guelaguetza",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Mexican",
+      "Address": "3014 W. Olympic Blvd., Los Angeles, 90006, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/le-comptoir",
+      "Name": "Le Comptoir",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Californian",
+      "Address": "3606 W. 6th St., Los Angeles, 90020, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/openaire",
+      "Name": "Openaire",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "3515 Wilshire Blvd., Los Angeles, 90010, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/dha-rae-oak",
+      "Name": "Dha Rae Oak",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Korean",
+      "Address": "1106 S. Western Ave., Los Angeles, 90006, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/kinn",
+      "Name": "Kinn",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Korean",
+      "Address": "3905 W. 6th St., Los Angeles, 90020, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/jeong-yuk-jeom",
+      "Name": "Jeong Yuk Jeom",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Korean",
+      "Address": "621 S. Western Ave., Ste.100, Los Angeles, 90005, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/chosun-galbee",
+      "Name": "Chosun Galbee",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Korean",
+      "Address": "3330 W. Olympic Blvd., Los Angeles, 90019, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/saffy-s",
+      "Name": "Saffy's",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Middle",
+      "Address": "4845 Fountain Ave., Los Angeles, 90029, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/antico-nuovo",
+      "Name": "Antico Nuovo",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Italian",
+      "Address": "4653 Beverly Blvd., Los Angeles, 90004, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/found-oyster",
+      "Name": "Found Oyster",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Seafood",
+      "Address": "4880 Fountain Ave., Los Angeles, 90029, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/kismet",
+      "Name": "Kismet",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Middle",
+      "Address": "4648 Hollywood Blvd., Los Angeles, 90027, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/la-azteca",
+      "Name": "La Azteca",
+      "City": "Los Angeles",
+      "Cost": "$",
+      "Cuisine": "Mexican",
+      "Address": "4538 E. Cesar E Chavez Ave., Los Angeles, 90022, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/soban",
+      "Name": "Soban",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Korean",
+      "Address": "4001 W. Olympic Blvd., Los Angeles, 90019, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/morihiro",
+      "Name": "Morihiro",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "3133 Glendale Blvd., Los Angeles, 90039, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/jitlada",
+      "Name": "Jitlada",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Thai",
+      "Address": "5233 1/2 W. Sunset Blvd., Los Angeles, 90027, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/otono",
+      "Name": "Oto\u00f1o",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Spanish",
+      "Address": "5715 N. Figueroa St., Los Angeles, 90042, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/gish-bac",
+      "Name": "Gish-Bac",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "4163 W. Washington Blvd., Los Angeles, 90018, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/hippo",
+      "Name": "Hippo",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "5916 1/2 Figueroa St., Los Angeles, 90042, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/chifa",
+      "Name": "Chifa",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Fusion",
+      "Address": "4374 Eagle Rock Blvd., Los Angeles, 90041, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/hollywood/restaurant/kali",
+      "Name": "Kali",
+      "City": "Hollywood",
+      "Cost": "$$$$",
+      "Cuisine": "Californian",
+      "Address": "5722 Melrose Ave., Hollywood, 90038, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/mi-lindo-nayrit-mariscos",
+      "Name": "Mi Lindo Nayarit Mariscos",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Seafood",
+      "Address": "1020 E. Florence Ave., Los Angeles, 90001, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/hollywood/restaurant/providence",
+      "Name": "Providence",
+      "City": "Hollywood",
+      "Cost": "$$$$",
+      "Cuisine": "Seafood",
+      "Address": "5955 Melrose Ave., Hollywood, 90038, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/hollywood/restaurant/republique",
+      "Name": "R\u00e9publique",
+      "City": "Hollywood",
+      "Cost": "$$$$",
+      "Cuisine": "Mediterranean",
+      "Address": "624 S. La Brea Ave., Hollywood, 90036, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/petit-trois",
+      "Name": "Petit Trois",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "French",
+      "Address": "718 N. Highland Ave., Los Angeles, 90028, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/pizzeria-mozza",
+      "Name": "Pizzeria Mozza",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Pizza",
+      "Address": "641 N. Highland Ave., Los Angeles, 90036, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/osteria-mozza",
+      "Name": "Osteria Mozza",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Italian",
+      "Address": "6602 Melrose Ave., Los Angeles, 90038, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/chi-spacca",
+      "Name": "Chi Spacca",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Italian",
+      "Address": "6610 Melrose Ave., Los Angeles, 90038, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/meteora",
+      "Name": "Meteora",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Creative",
+      "Address": "6703 Melrose Ave., Los Angeles, 90038, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/mother-wolf",
+      "Name": "Mother Wolf",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "1545 Wilcox Ave., Los Angeles, 90028, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/gwen",
+      "Name": "Gwen",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Steakhouse",
+      "Address": "6600 Sunset Blvd., Los Angeles, 90028, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/luv-2-eat-thai-bistro",
+      "Name": "Luv 2 Eat Thai Bistro",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Thai",
+      "Address": "6660 Sunset Blvd. P, Los Angeles, 90028, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/angelini-osteria",
+      "Name": "Angelini Osteria",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "7313 Beverly Blvd., Los Angeles, 90036, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/the-thai-thing",
+      "Name": "The Thai Thing",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Thai",
+      "Address": "6015 W. 3rd St., Los Angeles, 90036, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/petty-cash",
+      "Name": "Petty Cash",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "7360 Beverly Blvd., Los Angeles, 90036, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/ronan",
+      "Name": "Ronan",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "7315 Melrose Ave., Los Angeles, 90046, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/glendale/restaurant/zhengyalov-hatz",
+      "Name": "Zhengyalov Hatz",
+      "City": "Glendale",
+      "Cost": "$",
+      "Cuisine": "Armenian",
+      "Address": "318 E. Broadway, Glendale, 91205, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/alhambra/restaurant/chengdu-taste",
+      "Name": "Chengdu Taste",
+      "City": "Alhambra",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "828 W. Valley Blvd., Alhambra, 91803, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/alta-adams",
+      "Name": "Alta Adams",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Southern",
+      "Address": "5359 W. Adams Blvd., Los Angeles, 90016, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/flavors-from-afar",
+      "Name": "Flavors from Afar",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "International",
+      "Address": "1046 S. Fairfax Ave., Los Angeles, 90019, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/lalibela",
+      "Name": "Lalibela",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Ethiopian",
+      "Address": "1025 S. Fairfax Ave., Los Angeles, 90019, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/alhambra/restaurant/lunasia-dim-sum-house",
+      "Name": "Lunasia Dim Sum House",
+      "City": "Alhambra",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "500 W. Main St., Alhambra, 91801, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/meals-by-genet",
+      "Name": "Meals by Genet",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Ethiopian",
+      "Address": "1053 S. Fairfax Ave., Los Angeles, 90019, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/jon-vinny%E2%80%99s",
+      "Name": "Jon & Vinny\u2019s",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "412 N. Fairfax Ave., Los Angeles, 90036, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/animal",
+      "Name": "Animal",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Contemporary",
+      "Address": "435 N. Fairfax Ave., Los Angeles, 90036, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/alhambra/restaurant/sichuan-impression",
+      "Name": "Sichuan Impression",
+      "City": "Alhambra",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "235 W Main St., Alhambra, 91801, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/alhambra/restaurant/ipoh-kopitiam",
+      "Name": "Ipoh Kopitiam",
+      "City": "Alhambra",
+      "Cost": "$$",
+      "Cuisine": "Malaysian",
+      "Address": "1411 S. Garfield Ave., Alhambra, 91801, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/horses",
+      "Name": "Horses",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "7617 Sunset Blvd., Los Angeles, 90046, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/carlitos-gardel",
+      "Name": "Carlitos Gardel",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Argentinian",
+      "Address": "7963 Melrose Ave., Los Angeles, 90046, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/bee-taqueria",
+      "Name": "Bee Taqueria",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "5754 W. Adams Blvd., Los Angeles, 90016, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/jar",
+      "Name": "Jar",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "8225 Beverly Blvd., Los Angeles, 90048, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/son-of-a-gun",
+      "Name": "Son of a Gun",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Seafood",
+      "Address": "8370 W. 3rd St., Los Angeles, 90048, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/west-hollywood/restaurant/connie-ted%E2%80%99s",
+      "Name": "Connie & Ted\u2019s",
+      "City": "West Hollywood",
+      "Cost": "$$$",
+      "Cuisine": "Seafood",
+      "Address": "8171 Santa Monica Blvd., West Hollywood, 90046, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/kazan-1190724",
+      "Name": "Kazan",
+      "City": "Beverly Hills",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "111 N. La Cienega Blvd., Beverly Hills, 90211, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/west-hollywood/restaurant/sushi-ginza-onodera-559850",
+      "Name": "Sushi Ginza Onodera",
+      "City": "West Hollywood",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "609 N. La Cienega Blvd., West Hollywood, 90069, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/alhambra/restaurant/jiang-nan-spring",
+      "Name": "Jiang Nan Spring",
+      "City": "Alhambra",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "910 E. Main St., Alhambra, 91801, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/rosemead/restaurant/longo-seafood",
+      "Name": "Longo Seafood",
+      "City": "Rosemead",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "7540 Garvey Ave., Rosemead, 91770, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/pasadena/restaurant/parkway-grill",
+      "Name": "Parkway Grill",
+      "City": "Pasadena",
+      "Cost": "$$$$",
+      "Cuisine": "American",
+      "Address": "510 S. Arroyo Pkwy., Pasadena, 91105, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/pizzeria-sei",
+      "Name": "Pizzeria Sei",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Pizza",
+      "Address": "8781 W. Pico Blvd., Los Angeles, 90035, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/yasu",
+      "Name": "Yasu",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "265 S. Robertson Blvd., Beverly Hills, 90211, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/a-o-c",
+      "Name": "A.O.C.",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Mediterranean",
+      "Address": "8700 W. 3rd St., Los Angeles, 90048, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/bell-gardens/restaurant/rocio-s-mexican-kitchen",
+      "Name": "Rocio's Mexican Kitchen",
+      "City": "Bell Gardens",
+      "Cost": "$",
+      "Cuisine": "Mexican",
+      "Address": "7891 Garfield Ave., Bell Gardens, 90201, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/culver-city/restaurant/destroyer",
+      "Name": "Destroyer",
+      "City": "Culver City",
+      "Cost": "$$",
+      "Cuisine": "Contemporary",
+      "Address": "3578 Hayden Ave., Culver City, 90232, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-gabriel/restaurant/mian",
+      "Name": "Mian",
+      "City": "San Gabriel",
+      "Cost": "$",
+      "Cuisine": "Chinese",
+      "Address": "301 W. Valley Blvd., Ste. 114, San Gabriel, 91776, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/father%E2%80%99s-office",
+      "Name": "Father\u2019s Office",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Gastropub",
+      "Address": "3229 Helms Ave., Los Angeles, 90034, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/pasadena/restaurant/agnes",
+      "Name": "Agnes",
+      "City": "Pasadena",
+      "Cost": "$$$",
+      "Cuisine": "American",
+      "Address": "40 W. Green St., Pasadena, 91105, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/pasadena/restaurant/fishwives",
+      "Name": "Fishwives",
+      "City": "Pasadena",
+      "Cost": "$$",
+      "Cuisine": "Seafood",
+      "Address": "88 N. Fair Oaks Ave., Pasadena, 91103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/pasadena/restaurant/union",
+      "Name": "Union",
+      "City": "Pasadena",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "37 East Union St., Pasadena, 91103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/west-hollywood/restaurant/gracias-madre-la",
+      "Name": "Gracias Madre LA",
+      "City": "West Hollywood",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "8905 Melrose Ave., West Hollywood, 90069, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/pasadena/restaurant/perle",
+      "Name": "Perle",
+      "City": "Pasadena",
+      "Cost": "$$$",
+      "Cuisine": "French",
+      "Address": "43 E. Union St., Pasadena, 91103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-gabriel/restaurant/newport-seafood",
+      "Name": "Newport Seafood",
+      "City": "San Gabriel",
+      "Cost": "$$",
+      "Cuisine": "Seafood",
+      "Address": "518 W. Las Tunas Dr., San Gabriel, 91776, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/west-hollywood/restaurant/ardor",
+      "Name": "Ardor",
+      "City": "West Hollywood",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "9040 Sunset Blvd., West Hollywood, 90069, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/ella-1202143",
+      "Name": "Ella",
+      "City": "Beverly Hills",
+      "Cost": "$$",
+      "Cuisine": "Californian",
+      "Address": "9360 Wilshire Blvd., Beverly Hills, 90212, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/avec-nous",
+      "Name": "Avec Nous",
+      "City": "Beverly Hills",
+      "Cost": "$$$",
+      "Cuisine": "French",
+      "Address": "9291 Burton Way, Beverly Hills, 91210, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/manzke",
+      "Name": "Manzke",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "9575 W. Pico Blvd., Los Angeles, 90035, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/bicyclette-bistro",
+      "Name": "Bicyclette Bistro",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "French",
+      "Address": "9575 W. Pico Blvd., Los Angeles, 90035, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/spago-559606",
+      "Name": "Spago",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Californian",
+      "Address": "176 N. Ca\u00f1on Dr., Beverly Hills, 90210, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/nozawa-bar",
+      "Name": "Nozawa Bar",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "212 N. Ca\u00f1on Dr., Beverly Hills, 90210, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/maude",
+      "Name": "Maude",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "212 S. Beverly Dr., Beverly Hills, 90212, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/matu",
+      "Name": "mat\u016b",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Steakhouse",
+      "Address": "239 S. Beverly Dr.,  Ste. 100, Beverly Hills, 90212, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/glendale/restaurant/adana-restaurant",
+      "Name": "Adana Restaurant",
+      "City": "Glendale",
+      "Cost": "$$",
+      "Cuisine": "Middle",
+      "Address": "6918 San Fernando Rd., Glendale, 91201, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/avra",
+      "Name": "Avra",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Greek",
+      "Address": "233 N. Beverly Dr., Beverly Hills, 90210, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/cut-559418",
+      "Name": "CUT",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Steakhouse",
+      "Address": "9500 Wilshire Blvd., Beverly Hills, 90212, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/mirame",
+      "Name": "M\u00edrame",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Mexican",
+      "Address": "419 N. Ca\u00f1on Dr., Beverly Hills, 90210, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/gucci-osteria-da-massimo-bottura-1190961",
+      "Name": "Gucci Osteria da Massimo Bottura",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Italian",
+      "Address": "347 N. Rodeo Dr., Beverly Hills, 90210, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/ima-1191264",
+      "Name": "IMA",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "9669 S. Santa Monica Blvd., Los Angeles, 90210, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/culver-city/restaurant/mayura",
+      "Name": "Mayura",
+      "City": "Culver City",
+      "Cost": "$$",
+      "Cuisine": "Indian",
+      "Address": "10406 Venice Blvd., Culver City, 90232, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/tempura-endo",
+      "Name": "Tempura Endo",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "9777 S. Santa Monica Blvd., Beverly Hills, 90210, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/beverly-hills/restaurant/jean-georges-559420",
+      "Name": "Jean-Georges",
+      "City": "Beverly Hills",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "9850 Wilshire Blvd., Beverly Hills, 90210, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/n-naka",
+      "Name": "n/naka",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "3455 S. Overland Ave., Los Angeles, 90034, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/lumiere-1190516",
+      "Name": "Lumi\u00e8re",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "French",
+      "Address": "2025 Avenue Of The Stars, Los Angeles, 90067, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/inglewood/restaurant/coni-seafood",
+      "Name": "Coni'Seafood",
+      "City": "Inglewood",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "3544 W. Imperial Hwy., Inglewood, 90303, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/rosemead/restaurant/sea-harbour",
+      "Name": "Sea Harbour",
+      "City": "Rosemead",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "3939 Rosemead Blvd., Rosemead, 91770, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/meizhou-dongpo",
+      "Name": "Meizhou Dongpo",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "10250 Santa Monica Blvd., Los Angeles, 90067, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/studio-city/restaurant/leona-s-sushi-house",
+      "Name": "Leona\u2019s Sushi House",
+      "City": "Studio City",
+      "Cost": "$$$",
+      "Cuisine": "Japanese",
+      "Address": "11814 Ventura Blvd., Studio City, 91604, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/temple-city/restaurant/bistro-na%E2%80%99s",
+      "Name": "Bistro Na\u2019s",
+      "City": "Temple City",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "9055 Las Tunas Dr., Ste. 105, Temple City, 91780, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/studio-city/restaurant/asanebo",
+      "Name": "Asanebo",
+      "City": "Studio City",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "11941 Ventura Blvd., Studio City, 91604, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/temple-city/restaurant/dai-ho",
+      "Name": "Dai Ho",
+      "City": "Temple City",
+      "Cost": "$$",
+      "Cuisine": "Taiwanese",
+      "Address": "9148 Las Tunas Dr., Temple City, 91780, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/ayara-thai-cuisine",
+      "Name": "Ayara Thai Cuisine",
+      "City": "Los Angeles",
+      "Cost": "$",
+      "Cuisine": "Thai",
+      "Address": "6245 W. 87th St., Los Angeles, 90045, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/flame",
+      "Name": "Flame",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Persian",
+      "Address": "1442 Westwood Blvd., Los Angeles, 90024, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/hatchet-hall",
+      "Name": "Hatchet Hall",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "American",
+      "Address": "12517 Washington Blvd., Los Angeles, 90066, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/hamasaku",
+      "Name": "Hamasaku",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "Japanese",
+      "Address": "11043 Santa Monica Blvd., Los Angeles, 90025, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/killer-noodle",
+      "Name": "Killer Noodle",
+      "City": "Los Angeles",
+      "Cost": "$",
+      "Cuisine": "Japanese",
+      "Address": "2030 Sawtelle Blvd., Los Angeles, 90025, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/lulu",
+      "Name": "Lulu",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Californian",
+      "Address": "10899 Wilshire Blvd., Los Angeles, 90024, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/gardena/restaurant/sweet-rice",
+      "Name": "Sweet Rice",
+      "City": "Gardena",
+      "Cost": "$",
+      "Cuisine": "Thai",
+      "Address": "1630 W. Redondo Beach Blvd., Gardena, 90247, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/arcadia/restaurant/chef-tony",
+      "Name": "Chef Tony",
+      "City": "Arcadia",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "1108 S. Baldwin Ave., Arcadia, 91007, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/shunji",
+      "Name": "Shunji.",
+      "City": "Santa Monica",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "3003 Ocean Park Blvd., Santa Monica, 90405, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/sherman-oaks/restaurant/sushi-note",
+      "Name": "Sushi Note",
+      "City": "Sherman Oaks",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "13447 Ventura Blvd., Sherman Oaks, 91423, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/monte-alban",
+      "Name": "Monte Alban",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "11929 Santa Monica Blvd., Los Angeles, 90025, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/baltaire",
+      "Name": "Baltaire",
+      "City": "Los Angeles",
+      "Cost": "$$$$",
+      "Cuisine": "Steakhouse",
+      "Address": "11647 San Vicente Blvd., Los Angeles, 90049, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/pizzana",
+      "Name": "Pizzana",
+      "City": "Los Angeles",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "11712  San Vicente Blvd., Los Angeles, 90049, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/lunetta",
+      "Name": "Lunetta",
+      "City": "Santa Monica",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "2424 Pico Blvd., Santa Monica, 90405, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/birdie-g-s",
+      "Name": "Birdie G's",
+      "City": "Santa Monica",
+      "Cost": "$$$",
+      "Cuisine": "American",
+      "Address": "2421 Michigan Ave., Santa Monica, 90404, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/milo-olive",
+      "Name": "Milo + Olive",
+      "City": "Santa Monica",
+      "Cost": "$$$",
+      "Cuisine": "Market",
+      "Address": "2723 Wilshire Blvd., Santa Monica, 90403, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/venice/restaurant/gjelina",
+      "Name": "Gjelina",
+      "City": "Venice",
+      "Cost": "$$",
+      "Cuisine": "Contemporary",
+      "Address": "1429 Abbot Kinney Blvd., Venice, 90291, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/arcadia/restaurant/laoxi-noodle-house",
+      "Name": "LaoXi Noodle House",
+      "City": "Arcadia",
+      "Cost": "$",
+      "Cuisine": "Chinese",
+      "Address": "600 Live Oak Ave., Arcadia, 91006, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-los-angeles/restaurant/charcoal-venice",
+      "Name": "Charcoal Venice",
+      "City": "Los Angeles",
+      "Cost": "$$$",
+      "Cuisine": "American",
+      "Address": "425 Washington Blvd., Los Angeles, 90292, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/fia-steak",
+      "Name": "Fia Steak",
+      "City": "Santa Monica",
+      "Cost": "$$$$",
+      "Cuisine": "Steakhouse",
+      "Address": "2454 Wilshire Blvd., Santa Monica, 90403, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/fia",
+      "Name": "Fia",
+      "City": "Santa Monica",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "2454 Wilshire Blvd., Santa Monica, 90403, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/el-monte/restaurant/burritos-la-palma",
+      "Name": "Burritos La Palma",
+      "City": "El Monte",
+      "Cost": "$",
+      "Cuisine": "Mexican",
+      "Address": "5120 N. Peck Rd., El Monte, 91732, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/venice/restaurant/chulita",
+      "Name": "Chulita",
+      "City": "Venice",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "533 Rose Ave., Venice, 90291, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/venice/restaurant/felix-560031",
+      "Name": "Felix",
+      "City": "Venice",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "1023 Abbot Kinney Blvd., Venice, 90291, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/venice/restaurant/plant-food-wine",
+      "Name": "Plant Food + Wine",
+      "City": "Venice",
+      "Cost": "$$",
+      "Cuisine": "Vegan",
+      "Address": "1009 Abbot Kinney Blvd., Venice, 90291, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/sherman-oaks/restaurant/anajak-thai",
+      "Name": "Anajak Thai",
+      "City": "Sherman Oaks",
+      "Cost": "$$$",
+      "Cuisine": "Thai",
+      "Address": "14704 Ventura Blvd., Sherman Oaks, 91403, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-monrovia/restaurant/luscious-dumplings",
+      "Name": "Luscious Dumplings",
+      "City": "Monrovia",
+      "Cost": "$",
+      "Cuisine": "Chinese",
+      "Address": "919 W. Duarte Rd., Monrovia, 91016, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/pasjoli",
+      "Name": "Pasjoli",
+      "City": "Santa Monica",
+      "Cost": "$$$$",
+      "Cuisine": "French",
+      "Address": "2732 Main St., Santa Monica, 90405, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/chinois-on-main",
+      "Name": "Chinois on Main",
+      "City": "Santa Monica",
+      "Cost": "$$$",
+      "Cuisine": "Asian",
+      "Address": "2709 Main St., Santa Monica, 90405, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/rustic-canyon",
+      "Name": "Rustic Canyon",
+      "City": "Santa Monica",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "1119 Wilshire Blvd., Santa Monica, 90401, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/citrin",
+      "Name": "Citrin",
+      "City": "Santa Monica",
+      "Cost": "$$$$",
+      "Cuisine": "Californian",
+      "Address": "1104 Wilshire Blvd., Santa Monica, 90401, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/santa-monica/restaurant/melisse",
+      "Name": "M\u00e9lisse",
+      "City": "Santa Monica",
+      "Cost": "$$$$",
+      "Cuisine": "Modern",
+      "Address": "1104 Wilshire Blvd., Santa Monica, 90401, USA"
+   }
+]

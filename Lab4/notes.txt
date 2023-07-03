@@ -1,0 +1,5 @@
+a list contains stateName as keyword and dataAPI dict
+dataAPI dict contains "total", "data" as keyword attribute, etc
+"data" attribute is a list of dict objects with "name", "fullname", "activities"
+
+

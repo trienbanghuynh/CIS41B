@@ -1,0 +1,1442 @@
+[
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/robin",
+      "Name": "Robin",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "620 Gough St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/monsieur-benjamin",
+      "Name": "Monsieur Benjamin",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "French",
+      "Address": "451 Gough St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/nightbird",
+      "Name": "Nightbird",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Californian",
+      "Address": "330 Gough St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/suragan",
+      "Name": "Suragan",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Korean",
+      "Address": "250 Hyde St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/dumpling-home",
+      "Name": "Dumpling Home",
+      "City": "San Francisco",
+      "Cost": "$",
+      "Cuisine": "Chinese",
+      "Address": "298 Gough St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/le-fantastique",
+      "Name": "Le Fantastique",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "22 Franklin St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/rich-table",
+      "Name": "Rich Table",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "199 Gough St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/zuni-cafe",
+      "Name": "Zuni Caf\u00e9",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "1658 Market St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/sato-omakase",
+      "Name": "Sato Omakase",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Sushi",
+      "Address": "1122 Post St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/birdsong",
+      "Name": "Birdsong",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "1085 Mission St., San Francisco, 94103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/mensho",
+      "Name": "Mensho",
+      "City": "San Francisco",
+      "Cost": "$",
+      "Cuisine": "Japanese",
+      "Address": "672 Geary St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/nari",
+      "Name": "Nari",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Thai",
+      "Address": "1625 Post St., San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/liholiho-yacht-club",
+      "Name": "Liholiho Yacht Club",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Hawaiian",
+      "Address": "871 Sutter St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/yuji",
+      "Name": "Yuji",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "1700 Post St., Unit K, San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/octavia",
+      "Name": "Octavia",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "1701 Octavia St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/hk-lounge-bistro",
+      "Name": "HK Lounge Bistro",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "1136 Folsom St., San Francisco, 94103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/kin-khao",
+      "Name": "Kin Khao",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Thai",
+      "Address": "55 Cyril Magnin St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/oma-san-francisco-station",
+      "Name": "Oma San Francisco Station",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Japanese",
+      "Address": "1737 Post St. #337, San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/merchant-roots",
+      "Name": "Merchant Roots",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Creative",
+      "Address": "1365 Fillmore St., San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/californios",
+      "Name": "Californios",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Mexican",
+      "Address": "355 11th St., San Francisco, 94103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/friends-only",
+      "Name": "Friends Only",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Sushi",
+      "Address": "1501 California St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/the-progress",
+      "Name": "The Progress",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "1525 Fillmore St., San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/state-bird-provisions",
+      "Name": "State Bird Provisions",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "1529 Fillmore St., San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/bansang",
+      "Name": "Bansang",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Korean",
+      "Address": "1560 Fillmore St., San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/avery",
+      "Name": "Avery",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "1552 Fillmore St., San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/copra",
+      "Name": "Copra",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Indian",
+      "Address": "1700 Fillmore St., San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/acquerello",
+      "Name": "Acquerello",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Italian",
+      "Address": "1722 Sacramento St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/o-by-claude-le-tohic",
+      "Name": "O' by Claude Le Tohic",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "French",
+      "Address": "165 O'Farrell St., San Francisco, 94102, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/shizen",
+      "Name": "Shizen",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Vegan",
+      "Address": "370 14th St., San Francisco, 94103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/del-popolo",
+      "Name": "Del Popolo",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Pizza",
+      "Address": "855 Bush St., San Francisco, 94108, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/izakaya-rintaro",
+      "Name": "Izakaya Rintaro",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "82 14th St., San Francisco, 94103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/luce",
+      "Name": "Luce",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "888 Howard St., San Francisco, 94130, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/spqr",
+      "Name": "SPQR",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Italian",
+      "Address": "1911 Fillmore St., San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/sorella-1200631",
+      "Name": "Sorella",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "1760 Polk St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/sons-daughters",
+      "Name": "Sons & Daughters",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "708 Bush St., San Francisco, 94108, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/che-fico",
+      "Name": "Che Fico",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "838 Divisadero St., San Francisco, 94117, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/bellota",
+      "Name": "Bellota",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Spanish",
+      "Address": "888 Brannan St., San Francisco, 94103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/aphotic",
+      "Name": "Aphotic",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Seafood",
+      "Address": "816 Folsom St., San Francisco, 94107, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/ju-ni",
+      "Name": "j\u016b-ni",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "1335 Fulton St., San Francisco, 94117, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/ken",
+      "Name": "Ken",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Sushi",
+      "Address": "252 Divisadero St., San Francisco, 94117, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/berber",
+      "Name": "Berber",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Moroccan",
+      "Address": "1516 Broadway, San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/nopalito",
+      "Name": "Nopalito",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "306 Broderick St., San Francisco, 94117, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/okane",
+      "Name": "Okane",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "669 Townsend St., San Francisco, 94103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/omakase",
+      "Name": "Omakase",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "665 Townsend St., San Francisco, 94103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/niku-steakhouse",
+      "Name": "Niku Steakhouse",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Steakhouse",
+      "Address": "61 Division St., San Francisco, 94103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/saison",
+      "Name": "Saison",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Californian",
+      "Address": "178 Townsend St., San Francisco, 94107, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/ssal",
+      "Name": "Ssal",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Korean",
+      "Address": "2226 Polk St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/mister-jiu%E2%80%99s",
+      "Name": "Mister Jiu\u2019s",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Chinese",
+      "Address": "28 Waverly Pl., San Francisco, 94108, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/mourad",
+      "Name": "Mourad",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Moroccan",
+      "Address": "140 New Montgomery St., San Francisco, 94105, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/benu",
+      "Name": "Benu",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Asian",
+      "Address": "22 Hawthorne St., San Francisco, 94105, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/altovino",
+      "Name": "AltoVino",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "1358 Mason St., San Francisco, 94133, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/routier",
+      "Name": "Routier",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "French",
+      "Address": "2801 California St., San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/nisei",
+      "Name": "Nisei",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "2316 Polk St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/ramenwell",
+      "Name": "Ramenwell",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "3378 18th St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/rosemary-pine",
+      "Name": "Rosemary & Pine",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "1725 Alameda St., San Francisco, 94103, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/empress-by-boon",
+      "Name": "Empress by Boon",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Cantonese",
+      "Address": "838 Grant Ave., San Francisco, 94108, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/gracias-madre-sf",
+      "Name": "Gracias Madre SF",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Vegan",
+      "Address": "2211 Mission St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/ernest",
+      "Name": "Ernest",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "1890 Bryant St, Suite 100, San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/good-good-culture-club",
+      "Name": "Good Good Culture Club",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "South",
+      "Address": "3560 18th St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/delfina",
+      "Name": "Delfina",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "3621 18th St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/anomaly-sf",
+      "Name": "Anomaly SF",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "2600 Sutter St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/the-shota",
+      "Name": "The Shota",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "115 Sansome St., San Francisco, 94104, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/the-morris",
+      "Name": "The Morris",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "2501 Mariposa St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/z-y",
+      "Name": "Z & Y",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "655 Jackson St., San Francisco, 94133, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/frances",
+      "Name": "Frances",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Californian",
+      "Address": "3870 17th St., San Francisco, 94114, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/lazy-bear",
+      "Name": "Lazy Bear",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "3416 19th St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/osito",
+      "Name": "Osito",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "2875 18th St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/flores",
+      "Name": "Flores",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "2030 Union St., San Francisco, 94123, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/trestle",
+      "Name": "Trestle",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Contemporary",
+      "Address": "531 Jackson St., San Francisco, 94133, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/kusakabe",
+      "Name": "Kusakabe",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "584 Washington St., San Francisco, 94111, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/hilda-and-jesse",
+      "Name": "Hilda and Jesse",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "American",
+      "Address": "701 Union St., San Francisco, 94133, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/perbacco",
+      "Name": "Perbacco",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "230 California St., San Francisco, 94111, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/rooh",
+      "Name": "Rooh",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Indian",
+      "Address": "333 Brannan St., San Francisco, 94107, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/cotogna",
+      "Name": "Cotogna",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "490 Pacific Ave., San Francisco, 94133, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/flour-water",
+      "Name": "Flour + Water",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Italian",
+      "Address": "2401 Harrison St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/mijote",
+      "Name": "Mijot\u00e9",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "French",
+      "Address": "2400 Harrison St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/san-ho-won",
+      "Name": "San Ho Won",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Korean",
+      "Address": "2170 Bryant St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/quince",
+      "Name": "Quince",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "470 Pacific Ave., San Francisco, 94133, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/atelier-crenn",
+      "Name": "Atelier Crenn",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "3127 Fillmore St., San Francisco, 94123, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/sorrel",
+      "Name": "Sorrel",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "3228 Sacramento St., San Francisco, 94115, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/bar-crenn",
+      "Name": "Le Comptoir at Bar Crenn",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "3131 Fillmore St., San Francisco, 94123, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/cafe-jacqueline",
+      "Name": "Caf\u00e9 Jacqueline",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "French",
+      "Address": "1454 Grant Ave., San Francisco, 94133, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/anchor-oyster-bar",
+      "Name": "Anchor Oyster Bar",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Seafood",
+      "Address": "579 Castro St., San Francisco, 94114, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/kokkari-estiatorio",
+      "Name": "Kokkari Estiatorio",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Greek",
+      "Address": "200 Jackson St., San Francisco, 94111, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/harborview",
+      "Name": "Harborview",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "4 Embarcadero Center, San Francisco, 94111, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/gozu",
+      "Name": "Gozu",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "201 Spear St., San Francisco, 94105, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/yank-sing",
+      "Name": "Yank Sing",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "101 Spear St., San Francisco, 94105, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/prospect",
+      "Name": "Prospect",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "300 Spear St., San Francisco, 94105, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/boulevard",
+      "Name": "Boulevard",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "1 Mission St., San Francisco, 94105, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/angler-sf",
+      "Name": "Angler SF",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "132 The Embarcadero, San Francisco, 94105, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/gary-danko",
+      "Name": "Gary Danko",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "800 North Point St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/palette-tea-house",
+      "Name": "Palette Tea House",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "900 N. Point St., San Francisco, 94109, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/prik-hom",
+      "Name": "Prik Hom",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Thai",
+      "Address": "3226 Geary Blvd., San Francisco, 94118, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/hog-island-oyster-co",
+      "Name": "Hog Island Oyster Co.",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Seafood",
+      "Address": "1 Ferry Building, San Francisco, 94105, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/a16",
+      "Name": "A16",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Pizza",
+      "Address": "2355 Chestnut St., San Francisco, 94123, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/abaca",
+      "Name": "Abac\u00e1",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Filipino",
+      "Address": "2700 Jones St., San Francisco, 94133, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/spruce",
+      "Name": "Spruce",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Californian",
+      "Address": "3640 Sacramento St., San Francisco, 94118, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/sociale",
+      "Name": "Sociale",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Californian",
+      "Address": "3665 Sacramento St., San Francisco, 94118, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/itria",
+      "Name": "Itria",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "3266 24th St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/donaji",
+      "Name": "Donaji",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "3161 24th St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/saru",
+      "Name": "Saru",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Japanese",
+      "Address": "3856 24th St., San Francisco, 94114, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/la-taqueria",
+      "Name": "La Taqueria",
+      "City": "San Francisco",
+      "Cost": "$",
+      "Cuisine": "Mexican",
+      "Address": "2889 Mission St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/miller-lux",
+      "Name": "Miller & Lux",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Steakhouse",
+      "Address": "700 Terry A Francois Blvd., San Francisco, 94158, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/hamano-sushi",
+      "Name": "Hamano Sushi",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Japanese",
+      "Address": "1332 Castro St., San Francisco, 94114, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/birch-rye",
+      "Name": "Birch & Rye",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Russian",
+      "Address": "1320 Castro St., San Francisco, 94114, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/wako",
+      "Name": "Wako",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "211 Clement St., San Francisco, 94118, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/marlena",
+      "Name": "Marlena",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "300 Precita Ave., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/shish-ke-baba",
+      "Name": "Shish Ke Baba",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Turkish",
+      "Address": "59 30th St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/el-buen-comer",
+      "Name": "El Buen Comer",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "3435 Mission St., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/noodle-in-a-haystack",
+      "Name": "Noodle in a Haystack",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "4601 Geary Blvd., San Francisco, 94118, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/um-ma",
+      "Name": "Um.ma",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Korean",
+      "Address": "1220 Ninth Ave., San Francisco, 94122, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/3rd-cousin",
+      "Name": "3rd Cousin",
+      "City": "San Francisco",
+      "Cost": "$$$$",
+      "Cuisine": "Californian",
+      "Address": "919 Cortland Ave., San Francisco, 94110, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/sichuan-home",
+      "Name": "Sichuan Home",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "5037 Geary Blvd., San Francisco, 94118, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/aziza",
+      "Name": "Aziza",
+      "City": "San Francisco",
+      "Cost": "$$$",
+      "Cuisine": "Moroccan",
+      "Address": "5800 Geary Blvd., San Francisco, 94121, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/pizzetta-211",
+      "Name": "Pizzetta 211",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Pizza",
+      "Address": "211 23rd Ave., San Francisco, 94121, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/pearl-6101",
+      "Name": "Pearl 6101",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Mediterranean",
+      "Address": "6101 California St., San Francisco, 94121, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/violet-s",
+      "Name": "Violet's",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "American",
+      "Address": "2301 Clement St., San Francisco, 94121, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/fiorella",
+      "Name": "Fiorella",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "2339 Clement St., San Francisco, 94121, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/dumpling-alley",
+      "Name": "Dumpling Alley",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "2512 Clement St., San Francisco, 94121, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-francisco/restaurant/outerlands",
+      "Name": "Outerlands",
+      "City": "San Francisco",
+      "Cost": "$$",
+      "Cuisine": "Californian",
+      "Address": "4001 Judah St., San Francisco, 94122, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/sausalito/restaurant/sushi-ran",
+      "Name": "Sushi Ran",
+      "City": "Sausalito",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "107 Caledonia St., Sausalito, 94965, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/horn-barbecue",
+      "Name": "Horn Barbecue",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Barbecue",
+      "Address": "2534 Mandela Pkwy., Oakland, 94607, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/soba-ichi",
+      "Name": "Soba Ichi",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "2311A Magnolia St., Oakland, 94607, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/delage",
+      "Name": "Delage",
+      "City": "Oakland",
+      "Cost": "$$$",
+      "Cuisine": "Japanese",
+      "Address": "536 9th St., Oakland, 94607, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/dela-curo",
+      "Name": "Dela Curo",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "907 Washington St., Oakland, 94607, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/chuan-yu",
+      "Name": "Chuan Yu",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "388 9th St., Oakland, 94607, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/lion-dance-cafe",
+      "Name": "Lion Dance Cafe",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Singaporean",
+      "Address": "380 17th St., Oakland, 94612, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/parche",
+      "Name": "Parche",
+      "City": "Oakland",
+      "Cost": "$$$",
+      "Cuisine": "Colombian",
+      "Address": "2295 Broadway, Oakland, 94612, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/berkeley/restaurant/vik-s-chaat",
+      "Name": "Vik's Chaat",
+      "City": "Berkeley",
+      "Cost": "$",
+      "Cuisine": "Indian",
+      "Address": "2390 4th St., Berkeley, 94710, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/hi-felicia",
+      "Name": "Hi Felicia",
+      "City": "Oakland",
+      "Cost": "$$$$",
+      "Cuisine": "Californian",
+      "Address": "326 23rd St., Oakland, 94612, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/berkeley/restaurant/iyasare",
+      "Name": "Iyasare",
+      "City": "Berkeley",
+      "Cost": "$$$",
+      "Cuisine": "Japanese",
+      "Address": "1830 4th St., Berkeley, 94710, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/berkeley/restaurant/tacubaya",
+      "Name": "Tacubaya",
+      "City": "Berkeley",
+      "Cost": "$",
+      "Cuisine": "Mexican",
+      "Address": "1782 4th St., Berkeley, 94710, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/mama-oakland",
+      "Name": "MAMA Oakland",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "388 Grand Ave., Oakland, 94610, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/berkeley/restaurant/la-marcha",
+      "Name": "La Marcha",
+      "City": "Berkeley",
+      "Cost": "$$",
+      "Cuisine": "Spanish",
+      "Address": "2026 San Pablo Ave., Berkeley, 94702, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/tacos-oscar",
+      "Name": "Tacos Oscar",
+      "City": "Oakland",
+      "Cost": "$",
+      "Cuisine": "Mexican",
+      "Address": "420 40th St., Oakland, 94609, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/bird-buffalo",
+      "Name": "Bird & Buffalo",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Thai",
+      "Address": "4659 Telegraph Ave., Oakland, 94609, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/snail-bar",
+      "Name": "Snail Bar",
+      "City": "Oakland",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "4935 Shattuck Ave., Oakland, 94609, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/mago",
+      "Name": "M\u00e4go",
+      "City": "Oakland",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "3762 Piedmont Ave., Oakland, 94611, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/fob-kitchen",
+      "Name": "FOB Kitchen",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Filipino",
+      "Address": "5179 Telegraph Ave., Oakland, 94609, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/teni-east-kitchen",
+      "Name": "Teni East Kitchen",
+      "City": "Oakland",
+      "Cost": "$",
+      "Cuisine": "Burmese",
+      "Address": "4015 Broadway, Oakland, 94611, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/commis",
+      "Name": "Commis",
+      "City": "Oakland",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "3859 Piedmont Ave., Oakland, 94611, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/berkeley/restaurant/funky-elephant",
+      "Name": "Funky Elephant",
+      "City": "Berkeley",
+      "Cost": "$",
+      "Cuisine": "Thai",
+      "Address": "1313 9th St., Berkeley, 94710, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/alameda/restaurant/spinning-bones",
+      "Name": "Spinning Bones",
+      "City": "Alameda",
+      "Cost": "$$",
+      "Cuisine": "Californian",
+      "Address": "1205 Park St., Alameda, 94501, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/cafe-romanat",
+      "Name": "Caf\u00e9 Romanat",
+      "City": "Oakland",
+      "Cost": "$",
+      "Cuisine": "Ethiopian",
+      "Address": "462 Santa Clara Ave., Oakland, 94610, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/pomet",
+      "Name": "Pomet",
+      "City": "Oakland",
+      "Cost": "$$$",
+      "Cuisine": "Californian",
+      "Address": "4029 Piedmont Ave., Oakland, 94611, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/alameda/restaurant/utzutzu",
+      "Name": "Utzutzu",
+      "City": "Alameda",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "1428 Park St., Alameda, 94501, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/bardo-lounge",
+      "Name": "Bardo Lounge",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "American",
+      "Address": "3343 Lakeshore Ave., Oakland, 94610, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/barcote",
+      "Name": "Barcote",
+      "City": "Oakland",
+      "Cost": "$",
+      "Cuisine": "Ethiopian",
+      "Address": "6430 Telegraph Ave., Oakland, 94609, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/albany/restaurant/juanita-maude",
+      "Name": "Juanita & Maude",
+      "City": "Albany",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "825 San Pablo Ave., Albany, 94706, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/belotti-ristorante-e-bottega",
+      "Name": "Belotti Ristorante e Bottega",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "5403 College Ave., Oakland, 94618, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/berkeley/restaurant/fish-bird-sousaku-izakaya",
+      "Name": "Fish & Bird Sousaku Izakaya",
+      "City": "Berkeley",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "2451 Shattuck Ave., Berkeley, 94704, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/millennium",
+      "Name": "Millennium",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Vegan",
+      "Address": "5912 College Ave., Oakland, 94618, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/berkeley/restaurant/great-china",
+      "Name": "Great China",
+      "City": "Berkeley",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "2190 Bancroft Way, Berkeley, 94701, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/wood-tavern",
+      "Name": "Wood Tavern",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "American",
+      "Address": "6317 College Ave., Oakland, 94618, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/albany/restaurant/china-village",
+      "Name": "China Village",
+      "City": "Albany",
+      "Cost": "$",
+      "Cuisine": "Chinese",
+      "Address": "1335 Solano Ave., Albany, 94706, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/berkeley/restaurant/ippuku",
+      "Name": "Ippuku",
+      "City": "Berkeley",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "2130 Center St., Berkeley, 94704, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/berkeley/restaurant/comal",
+      "Name": "Comal",
+      "City": "Berkeley",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "2020 Shattuck Ave., Berkeley, 94704, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/el-cerrito/restaurant/new-dumpling",
+      "Name": "New Dumpling",
+      "City": "El Cerrito",
+      "Cost": "$",
+      "Cuisine": "Chinese",
+      "Address": "10064 San Pablo Ave., El Cerrito, 94530, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/berkeley/restaurant/chez-panisse",
+      "Name": "Chez Panisse",
+      "City": "Berkeley",
+      "Cost": "$$$$",
+      "Cuisine": "Californian",
+      "Address": "1517 Shattuck Ave., Berkeley, 94709, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/mill-valley/restaurant/playa",
+      "Name": "Playa",
+      "City": "Mill Valley",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "41 Throckmorton Ave., Mill Valley, 94941, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-bruno/restaurant/gintei",
+      "Name": "Gintei",
+      "City": "San Bruno",
+      "Cost": "$$$",
+      "Cuisine": "Japanese",
+      "Address": "235 El Camino Real, San Bruno, 94066, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/bombera",
+      "Name": "Bombera",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Mexican",
+      "Address": "3459 Champion St., Oakland, 94602, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/taqueria-el-paisa",
+      "Name": "Taquer\u00eda El Paisa",
+      "City": "Oakland",
+      "Cost": "$",
+      "Cuisine": "Mexican",
+      "Address": "4610 International Blvd., Oakland, 94601, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/corte-madera/restaurant/pig-in-a-pickle",
+      "Name": "Pig in a Pickle",
+      "City": "Corte Madera",
+      "Cost": "$$",
+      "Cuisine": "Barbecue",
+      "Address": "341 Corte Madera Town Centre, Corte Madera, 94925, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/millbrae/restaurant/tasty-place",
+      "Name": "Tasty Place",
+      "City": "Millbrae",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "1625 El Camino Real, Millbrae, 94030, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/corte-madera/restaurant/burmatown",
+      "Name": "Burmatown",
+      "City": "Corte Madera",
+      "Cost": "$$",
+      "Cuisine": "Burmese",
+      "Address": "60 Corte Madera Ave., Corte Madera, 94925, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/oakland/restaurant/jo-s-modern-thai",
+      "Name": "Jo's Modern Thai",
+      "City": "Oakland",
+      "Cost": "$$",
+      "Cuisine": "Thai",
+      "Address": "3725 MaCarthur Blvd., Oakland, 94619, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/larkspur/restaurant/picco",
+      "Name": "Picco",
+      "City": "Larkspur",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "320 Magnolia Ave., Larkspur, 94939, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/millbrae/restaurant/wonderful",
+      "Name": "wonderful",
+      "City": "Millbrae",
+      "Cost": "$$",
+      "Cuisine": "Chinese",
+      "Address": "270 Broadway, Millbrae, 94030, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/burlingame/restaurant/new-england-lobster-eatery",
+      "Name": "New England Lobster Eatery",
+      "City": "Burlingame",
+      "Cost": "$$",
+      "Cuisine": "Seafood",
+      "Address": "824 Cowan Rd., Burlingame, 94010, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/kentfield/restaurant/guesthouse",
+      "Name": "Guesthouse",
+      "City": "Kentfield",
+      "Cost": "$$$",
+      "Cuisine": "Contemporary",
+      "Address": "850 College Ave., Kentfield, 94904, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/us-san-rafael/restaurant/sol-food",
+      "Name": "Sol Food",
+      "City": "San Rafael",
+      "Cost": "$$",
+      "Cuisine": "Puerto",
+      "Address": "903 Lincoln Ave., San Rafael, 94901, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-anselmo/restaurant/insalata-s",
+      "Name": "Insalata's",
+      "City": "San Anselmo",
+      "Cost": "$$",
+      "Cuisine": "Mediterranean",
+      "Address": "120 Sir Francis Drake Blvd., San Anselmo, 94960, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-leandro/restaurant/top-hatters-kitchen",
+      "Name": "Top Hatters Kitchen",
+      "City": "San Leandro",
+      "Cost": "$$",
+      "Cuisine": "Contemporary",
+      "Address": "855 Macarthur Blvd., San Leandro, 94577, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-anselmo/restaurant/madcap",
+      "Name": "Madcap",
+      "City": "San Anselmo",
+      "Cost": "$$$$",
+      "Cuisine": "Contemporary",
+      "Address": "198 Sir Francis Drake Blvd., San Anselmo, 94960, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-mateo/restaurant/kajiken",
+      "Name": "Kajiken",
+      "City": "San Mateo",
+      "Cost": "$",
+      "Cuisine": "Noodles",
+      "Address": "112 S. B St., San Mateo, 94401, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-mateo/restaurant/sushi-yoshizumi",
+      "Name": "Sushi Yoshizumi",
+      "City": "San Mateo",
+      "Cost": "$$$$",
+      "Cuisine": "Japanese",
+      "Address": "325 E. 4th Ave., San Mateo, 94401, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-mateo/restaurant/pausa",
+      "Name": "Pausa",
+      "City": "San Mateo",
+      "Cost": "$$",
+      "Cuisine": "Italian",
+      "Address": "223 E. 4th Ave., San Mateo, 94401, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/san-mateo/restaurant/all-spice",
+      "Name": "All Spice",
+      "City": "San Mateo",
+      "Cost": "$$$$",
+      "Cuisine": "International",
+      "Address": "1602 El Camino Real, San Mateo, 94402, USA"
+   },
+   {
+      "URL": "https://guide.michelin.com//us/en/california/fairfax/restaurant/village-sake",
+      "Name": "Village Sake",
+      "City": "Fairfax",
+      "Cost": "$$",
+      "Cuisine": "Japanese",
+      "Address": "19 Bolinas Rd., Fairfax, 94930, USA"
+   }
+]

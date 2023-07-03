@@ -1,0 +1,9 @@
+'''
+Tasks for front-end file:
+- Haven't figured out exception of failing to open db file 
+- Should we pass conn and cur as parameter for dialog, or we do the same as Main Win that opening db at init and close at the end
+- Can the code be refactored more?
+
+Tasks for back-end file:
+
+'''
