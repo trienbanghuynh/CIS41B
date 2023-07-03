@@ -1,6 +1,6 @@
 # Name: Trien Bang Huynh
 # Assignment 1: UI class
-
+# Grade: 23/25
 from states import States
 
 class UI:

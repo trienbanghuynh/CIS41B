@@ -1,7 +1,7 @@
 # Name: Trien Bang Huynh
 # Lab 3: Web scraping and data storage with requests, beautifulsoup, sqlite3, review tkinter.
 # lab3front.py: DisplayWin class, DialogWin class, MainWin class
-   
+# Grade: 23.5/25
 import tkinter as tk                 
 import tkinter.messagebox as tkmb
 import sqlite3

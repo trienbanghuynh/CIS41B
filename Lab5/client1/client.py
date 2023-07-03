@@ -1,7 +1,7 @@
 # Lab 5 - network (socket), multi-threading, system
 # Names: Trien Bang Huynh and Marcel Gunadi
 # client.py
-
+# Grade: 23.5/25
 import socket
 import pickle
 import sys

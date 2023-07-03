@@ -1,7 +1,7 @@
 # Lab 4 - web api, multithreading, multiprocessing, os, review of json, gui
 # Names: Trien Bang Huynh and Marcel Gunadi
 # lab4process.py - Multiprocessing
-
+# Grade: 24/25
 import urllib.request, json
 import os
 import tkinter as tk                 

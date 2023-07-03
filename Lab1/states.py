@@ -1,6 +1,6 @@
 # Name: Trien Bang Huynh
 # Assignment 1: States class
-
+# Grade: 23/25
 import csv
 import os
 

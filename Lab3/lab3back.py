@@ -1,7 +1,7 @@
 # Name: Trien Bang Huynh
 # Lab 3: Web scraping and data storage with requests, beautifulsoup, sqlite3, review tkinter.
 # lab3back.py
-
+# Grade: 23.5/25
 import requests
 from bs4 import BeautifulSoup 
 import re
